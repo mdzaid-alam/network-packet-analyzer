@@ -93,14 +93,6 @@ Capturing 1 packet only...
    - Try selecting a different network interface
    - Ensure you have network traffic
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## ⚠️ Disclaimer
 
 This tool is for educational purposes only. The user is responsible for ensuring they have permission to monitor the network they are analyzing. The author is not responsible for any misuse of this tool. 
