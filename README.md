@@ -24,7 +24,7 @@ A simple and user-friendly network packet analyzer tool that captures and displa
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/network-packet-analyzer.git
+git clone https://github.com/mdzaid-alam/network-packet-analyzer.git
 cd network-packet-analyzer
 ```
 
@@ -60,10 +60,10 @@ Capturing 1 packet only...
 
 📦 New Packet Captured
 ⏰ Time: 2024-03-14 15:30:45
-➡️ Source IP: 192.168.1.100
-⬅️ Destination IP: 8.8.8.8
+➡️ Source IP: 192.168.1.***
+⬅️ Destination IP: 8.8.*.*
 📡 Protocol: 6
-🔌 Source Port: 54321
+🔌 Source Port: 543*1
 🔌 Destination Port: 80
 ==================================================
 ```
